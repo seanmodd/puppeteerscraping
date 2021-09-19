@@ -1,0 +1,11 @@
+node_modules
+package-lock.json
+credentials.json
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+.env.staging
+.env.prod
+
